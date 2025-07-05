@@ -1,0 +1,3 @@
+Netflix Clone
+
+A sleek front-end clone of Netflix, designed to showcase modern UI design and responsive layout using HTML and CSS.
